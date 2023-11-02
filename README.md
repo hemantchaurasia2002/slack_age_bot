@@ -1,5 +1,5 @@
 # slack_age_bot
-![1882974265975_c2814223e012464d1ead_512](https://github.com/hemantchaurasia2002/slack_age_bot/assets/62471000/94ec65bb-844e-4180-8082-3cb0a3771293)
+<p align="right">![1882974265975_c2814223e012464d1ead_512](https://github.com/hemantchaurasia2002/slack_age_bot/assets/62471000/94ec65bb-844e-4180-8082-3cb0a3771293 =250x250)</p>
 
 This Slack Age Calculator Bot is a fun and useful addition to your Slack workspace. Written in Golang, it calculates and displays the age of users based on their provided date of birth. With just a simple message in your Slack channel, you can instantly find out how old you are!
 
